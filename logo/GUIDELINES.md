@@ -1,3 +1,7 @@
 # Bruits' Logo Guidelines
 
-*Work in progress*
+_Work in progress_
+
+## Palette
+
+Accent: #f05d5d
